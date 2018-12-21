@@ -1,2 +1,2 @@
 # justicelee.me
-Professional Website
+Professional Website for Displaying all progress on all projects
